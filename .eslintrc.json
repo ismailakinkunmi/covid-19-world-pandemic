@@ -21,7 +21,8 @@
     "no-shadow": "off",
     "linebreak-style": "off",
     "quotes": "off",
-    "comma-dangle": "off"
+    "comma-dangle": "off",
+    "no-multiple-empty-lines": "off"
   },
   "ignorePatterns": ["dist/", "build/"]
 }
