@@ -1,12 +1,19 @@
 import React from "react";
-
+import { Routes, Route } from "react-router";
+import Home from "./components/Home";
 import "./App.css";
+import Continent from "./components/Continent";
+import Country from "./components/Country";
 
 function App() {
   return (
-    <div>
-      <h1>hello </h1>
-    </div>
+    <>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/countinent" element={<Continent />} />
+        <Route path="/country" element={<Country />} />
+      </Routes>
+    </>
   );
 }
 
