@@ -36,7 +36,6 @@
   }
 
   100% {
-    transform: translateY(0px);
+    transform: translateY(1px);
   }
 }
-
