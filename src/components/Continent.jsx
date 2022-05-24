@@ -1,7 +1,7 @@
 import React from "react";
 
 function Continent() {
-  return <div>Home</div>;
+  return <div>Continent</div>;
 }
 
 export default Continent;
