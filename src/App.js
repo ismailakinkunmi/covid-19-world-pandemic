@@ -1,4 +1,5 @@
 import React from "react";
+
 import "./App.css";
 
 function App() {
@@ -11,3 +12,8 @@ function App() {
 
 export default App;
 
+function App() {
+  return <div>App</div>;
+}
+
+export default App;
