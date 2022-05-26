@@ -20,7 +20,7 @@
     position: absolute;
     display: flex;
     justify-content: space-between;
-    padding: 1rem;
+    padding: 17px;
     gap: 5px;
     flex-direction: column;
   }
