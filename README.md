@@ -14,10 +14,6 @@ This project is working with the real live data disease.sh - Open Disease Data A
 - ReactJS.
 - Redux.
 
-## Live Demo
-
-- [live](https://ismailakinkunmi.github.io/covid-19-world-pandemic/)
-
 ## Presentation Video
 
 - Here is a video explaining about the App [Click Here](https://www.loom.com/share/344f114070e2492298e332aea91a6f10)
