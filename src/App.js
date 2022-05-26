@@ -1,17 +1,17 @@
-import React from "react";
-import { Routes, Route } from "react-router";
-import Home from "./components/Home";
-import "./App.css";
-import Continent from "./components/Continent";
-import Country from "./components/Country";
+import { Routes, Route } from 'react-router-dom';
+import Details from './components/Details';
+import Home from './components/Home';
+import Navbar from './components/Navbar';
+import Continents from './components/Continents';
 
 function App() {
   return (
     <>
+      <Navbar />
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/countinent" element={<Continent />} />
-        <Route path="/country" element={<Country />} />
+        <Route path="/" element={<Continents />} />
+        <Route path="/continent/:continent" element={<Home />} />
+        <Route path="/country/:name" element={<Details />} />
       </Routes>
     </>
   );
