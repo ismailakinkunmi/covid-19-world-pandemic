@@ -4,7 +4,7 @@ This project is working with the real live data disease.sh - Open Disease Data A
 
 ## Screen Shots
 
-> Coming Soon.
+![Screenshot (139)](https://user-images.githubusercontent.com/37457094/170477032-5b19dd99-5ba1-422b-a486-405167302610.png)
 
 ## Built With
 
