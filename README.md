@@ -1,4 +1,4 @@
-# Metrics-WebApp
+# (Covid-19) World Pandemic
 
 This project is working with the real live data disease.sh - Open Disease Data API. The application will allow users to check daily updated cases around the world.
 
