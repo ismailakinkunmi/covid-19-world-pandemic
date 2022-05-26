@@ -2,8 +2,6 @@
   position: relative;
   text-align: center;
   color: white;
-
-  /* margin: 2% 5%; */
 }
 
 .image img {
@@ -26,8 +24,6 @@
     position: relative;
     text-align: center;
     color: white;
-
-    /* margin: 2% 5%; */
     box-shadow: 0 0 6px #082863;
   }
 
