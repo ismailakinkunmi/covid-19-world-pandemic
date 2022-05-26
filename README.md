@@ -24,8 +24,8 @@ To get a local copy up and running follow these setup steps.
 
 ### Setup
 
-- Open terminal and clone the project: `https://github.com/ismailakinkunmi/metrics-webapp.git`
-- cd into the directory `metrics-webapp`
+- Open terminal and clone the project: `https://github.com/ismailakinkunmi/covid-19-world-pandemic.git`
+- cd into the directory `covid-19-world-pandemic`
 
 ### Prerequisites
 
