@@ -16,7 +16,7 @@ This project is working with the real live data disease.sh - Open Disease Data A
 
 ## Live Demo
 
-- [live](https://ismailakinkunmi.github.io/metrics-webapp/)
+- [live](https://ismailakinkunmi.github.io/covid-19-world-pandemic/)
 
 ## Presentation Video
 
