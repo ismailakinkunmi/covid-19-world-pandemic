@@ -18,6 +18,10 @@ This project is working with the real live data disease.sh - Open Disease Data A
 
 - [live](https://ismailakinkunmi.github.io/metrics-webapp/)
 
+## Presentation Video
+
+- Here is a video explaining about the App [Click Here](https://www.loom.com/share/344f114070e2492298e332aea91a6f10)
+
 ## Getting Started
 
 To get a local copy up and running follow these setup steps.
