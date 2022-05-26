@@ -22,7 +22,9 @@
     "linebreak-style": "off",
     "quotes": "off",
     "comma-dangle": "off",
-    "no-multiple-empty-lines": "off"
+    "no-param-reassign": "off",
+    "no-multiple-empty-lines": "off",
+    "object-curly-newline": "off"
   },
   "ignorePatterns": ["dist/", "build/"]
 }
