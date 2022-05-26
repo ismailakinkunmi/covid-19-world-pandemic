@@ -8,5 +8,5 @@ const reducer = combineReducers({
 });
 
 const store = createStore(reducer, compose(applyMiddleware(thunk, logger)));
-console.log(store);
+
 export default store;
