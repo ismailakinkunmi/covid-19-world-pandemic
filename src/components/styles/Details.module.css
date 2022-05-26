@@ -1,13 +1,3 @@
-@media only screen and (max-width: 600px) {
-  .flagCard {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    position: relative;
-    box-shadow: 0 0 6px #082863;
-    margin: 5%;
-  }
-
   .flagCard img {
     padding: 4rem;
     border-radius: 6px;
