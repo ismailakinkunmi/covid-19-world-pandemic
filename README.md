@@ -69,8 +69,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
+- Original design idea by Nelson Sakwa on Behance .
 - Microverse program
 - My standup team
+- Coding partner
 - Microverse team
 - My family's support
