@@ -1,0 +1,28 @@
+.nav {
+  background-color: #eb3477;
+  width: 100%;
+  height: 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.pointer {
+  color: #fff;
+  font-size: 25px;
+  margin: 23px;
+}
+
+.navText {
+  text-decoration: none;
+  color: #fff;
+  font-size: 19px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.settings {
+  color: #fff;
+  font-size: 23px;
+  margin: 22px;
+}
