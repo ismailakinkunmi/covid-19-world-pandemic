@@ -18,6 +18,10 @@ This project is working with the real live data disease.sh - Open Disease Data A
 
 - Here is a video explaining about the App [Click Here](https://www.loom.com/share/344f114070e2492298e332aea91a6f10)
 
+## Live Demo
+
+[click here](https://covid19-world-panemic.herokuapp.com/)
+
 ## Getting Started
 
 To get a local copy up and running follow these setup steps.
@@ -75,4 +79,3 @@ Give a ⭐️ if you like this project!
 - Coding partner
 - Microverse team
 - My family's support
-
